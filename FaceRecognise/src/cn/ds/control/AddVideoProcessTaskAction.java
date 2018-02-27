@@ -34,6 +34,19 @@ public class AddVideoProcessTaskAction implements ActionListener,
 	// 添加视频人脸识别任务
 	private AddVideoProcessTaskView addVideoProcessView;
 	// 文件选择
+	//
+	//
+	//
+	//
+	//
+	//
+	//
+	//
+	//
+	//
+	//
+	//
+	//
 	private JFileChooser fileChooser = new JFileChooser();
 	// JTable要显示的添加照片数据
 	private Vector<Object[]> photoData = new Vector<Object[]>();
